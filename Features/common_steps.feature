@@ -1,4 +1,5 @@
 Feature: Common Steps
+Used to store the common steps which are used across test cases
 
 Scenario: Opening and logging into the git dashboard
 	Given User is opening login page

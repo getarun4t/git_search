@@ -2,7 +2,7 @@
 class git():
     url = "https://github.com/login"
     username = "xxxxxx"
-    password = "xxxxxxx"
+    password = "xxxxxx"
     
 class gist():
     url = "https://gist.github.com/"
